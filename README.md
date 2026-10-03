@@ -37,4 +37,5 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+### *Fun Fact: I am certified through DataCamp as an Associate Data Scientist!*
 <!-- ### [Find Me!](https://www.linkedin.com/in/) ADD LATER?-->
